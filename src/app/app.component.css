@@ -1,0 +1,11 @@
+.form-area,
+.preview-area {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.bgclr {
+  background-color: antiquewhite;
+  padding: 10px;
+  display: inline-block;
+}
